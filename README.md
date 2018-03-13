@@ -14,7 +14,7 @@ We are at an inflection point in apparel sustainability, given the dramatic incr
 Yet all of this data is stored in separate databases, where the names and addresses of factories can be saved in dozens of different ways. <b>As a result, anyone seeking to assess the performance of a brand and its supply chain needs to engage in laborious and time-consuming research to match the factory names and addresses used by each stakeholder group involved. </b> 
 Based on conversations with leading brands and NGOs in the apparel sector, it is estimated that each major stakeholder spends anywhere between €50-100k per year on this effort alone, which is invariably totally out of reach for smaller organizations.
 
-<h3>The Solution </h3> 
+<h3>The Solution 📋↔️📋</h3> 
 <b>The Open Apparel Registry solves this industry-wide problem through an open database and a sophisticated name-and-address matching algorithm that eliminates the need for each stakeholder to carry out the manual work of matching across databases.</b>
 
 
