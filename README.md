@@ -35,7 +35,7 @@ In simple speak - the OAR will act as a central list of factory names and locati
 <h2>The Collaborators 🎈</h2>
 The OAR is a collaborative project between Sourcemap (https://sourcemap.com), a technology company focused on developing end to end supply chain mapping software, and the C&A Foundation (http://www.candafoundation.org/), an organization that brings together brands, initiatives and people to collectively create a more fair and sustainable fashion industry.
 
-<h2>How You Can Help 💬</2> 
+<h2>How You Can Help 💬</h2> 
 
 As the OAR is currently in its discovery and prototyping phase, we are reaching out to different types of industry stakeholders - from factories and brands, to researchers and civil society organizations - to participate in our user research and focus group discussions to better inform the OAR's design.
 
