@@ -40,7 +40,7 @@ As the OAR is currently in its discovery and prototyping phase, we are reaching 
 
 <br>
 
-<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project.<b> Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. 
+<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project.</b> Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. 
   
   <br>
   
