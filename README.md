@@ -35,4 +35,13 @@ In simple speak - the OAR will act as a central list of factory names and locati
 The OAR is a collaborative project between Sourcemap (https://sourcemap.com), a technology company focused on developing end to end supply chain mapping software, and the C&A Foundation (http://www.candafoundation.org/), an organization that brings together brands, initiatives and people to collectively create a more fair and sustainable fashion industry.
 
 <h3>How You Can Help 💬</h3> 
-As the OAR is currently in its discovery and prototyping phase, we are reaching out to all kinds of industry stakeholders - from factories and brands, to researchers and civil society organizations - to sign up to participate in our user research and focus group discussions to better inform the OAR's design. We are also inviting interested users to sign up as beta testers for the OAR's beta launch scheduled for Summer 2018.  
+
+As the OAR is currently in its discovery and prototyping phase, we are reaching out to different types of industry stakeholders - from factories and brands, to researchers and civil society organizations - to participate in our user research and focus group discussions to better inform the OAR's design.
+
+<br>
+
+<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project.<b> Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. 
+  
+  <br>
+  
+If you'd like to participate, please send an email with the subject "Contributing Design Feedback for the OAR" directly to  <rhea@sourcemap.com>. Thanks so much for your time! 💛 
