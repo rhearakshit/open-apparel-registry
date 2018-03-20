@@ -25,6 +25,7 @@ Yet all of this data is stored in separate databases, where the names and addres
 Based on conversations with leading brands and NGOs in the apparel sector, it is estimated that each major stakeholder spends anywhere between €50-100k per year on this effort alone (!), which is usually totally out of reach for smaller organizations or individuals.
 
 <h3>The Solution 📋↔️📋</h3> 
+
 <b>The Open Apparel Registry (OAR) solves this problem through an open database and a sophisticated name-and-address matching algorithm that eliminates the need for each stakeholder to carry out the manual work of matching across databases. </b>
 
 <br>
@@ -40,7 +41,7 @@ As the OAR is currently in its discovery and prototyping phase, we are reaching 
 
 <br>
 
-<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project.</b> Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. 
+<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project. Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. </b>
   
   <br>
   
