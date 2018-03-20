@@ -8,8 +8,14 @@ The Open Apparel Registry (OAR) is designed to be an <b>open, crowdsourced datab
 ![howitworks](https://user-images.githubusercontent.com/13699037/37334841-07d736e8-26d3-11e8-9677-a52a608088ae.jpg)
 
 <h3>The Problem 📋🗄📋</h3> 
-We are at an inflection point in apparel sustainability, given the dramatic increase in the data collected and disclosed on the location and performance of apparel factories by different kinds of industry stakeholders - including universities, NGOs, auditing firms, governments, certification bodies and brands. 
 
+<b>Did you know that the fashion industry is the second largest polluter of water 💦, or that garment workers in many of the world's largest garment producing regions like Bangladesh and Cambodia, frequently earn well below a living wage? 💰</b>
+
+<br>
+
+The good news is that we are definitely at an inflection point in in the apparel industry when it comes to sustainability - there has been a dramatic increase in the amount and type of data collected and disclosed on the location and performance of garment producing factories, by different kinds of industry stakeholders - including universities, NGOs, auditing firms, governments, certification bodies and brands. 
+
+<br>
 
 Yet all of this data is stored in separate databases, where the names and addresses of factories can be saved in dozens of different ways. <b>As a result, anyone seeking to assess the performance of a brand and its supply chain needs to engage in laborious and time-consuming research to match the factory names and addresses used by each stakeholder group involved. </b> 
 Based on conversations with leading brands and NGOs in the apparel sector, it is estimated that each major stakeholder spends anywhere between €50-100k per year on this effort alone, which is invariably totally out of reach for smaller organizations.
