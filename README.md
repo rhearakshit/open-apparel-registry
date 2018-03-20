@@ -1,11 +1,12 @@
 <h1>Open Apparel Registry</h1>
 
-<h2>About</h2>
-<h3>Welcome to the Open Apparel Registry! 🌎👕🎉</h3>
+<h2>Welcome to the Open Apparel Registry! 🌎👕🎉</h2>
 
 The [Open Apparel Registry](https://openapprel.org) is designed to be an <b>open, crowdsourced database</b> of apparel factories around the world, and it does this by normalizing information - i.e. factory names and locations - across data sources.
 
 ![howitworks](https://user-images.githubusercontent.com/13699037/37334841-07d736e8-26d3-11e8-9677-a52a608088ae.jpg)
+
+<h2>About</h2>
 
 <h3>The Problem 📋🗄📋</h3> 
 
@@ -17,14 +18,18 @@ The good news is that we are definitely at an inflection point in in the apparel
 
 <br>
 
-Yet all of this data is stored in separate databases, where the names and addresses of factories can be saved in dozens of different ways. <b>As a result, anyone seeking to assess the performance of a brand and its supply chain needs to engage in laborious and time-consuming research to match the factory names and addresses used by each stakeholder group involved. </b> 
-Based on conversations with leading brands and NGOs in the apparel sector, it is estimated that each major stakeholder spends anywhere between €50-100k per year on this effort alone, which is invariably totally out of reach for smaller organizations.
+Yet all of this data is stored in separate databases, where the names and addresses of factories can be saved in dozens of different ways. <b>As a result, anyone interested in finding out more about the ethical practices or environmental performance of a brand and its supply chain, needs to engage in laborious and time-consuming research to match the factory names and addresses used by each of the abovementioned stakeholders to each other. </b> 
+
+<br>
+
+Based on conversations with leading brands and NGOs in the apparel sector, it is estimated that each major stakeholder spends anywhere between €50-100k per year on this effort alone (!), which is usually totally out of reach for smaller organizations or individuals.
 
 <h3>The Solution 📋↔️📋</h3> 
-<b>The Open Apparel Registry solves this industry-wide problem through an open database and a sophisticated name-and-address matching algorithm that eliminates the need for each stakeholder to carry out the manual work of matching across databases.</b>
+<b>The Open Apparel Registry (OAR) solves this problem through an open database and a sophisticated name-and-address matching algorithm that eliminates the need for each stakeholder to carry out the manual work of matching across databases.</b>
 
+<br>
 
-The OAR will act as a central list of factory names and locations that anyone can use to normalize names and addresses. It will function as a free, open data repository that can be used directly via an intuitive online interface, or indirectly via a real-time open API, akin to a ‘Google Places’ service customized for the needs of the apparel and footwear sector. The OAR will centralize data that is scraped from the brand's public factory lists and organizational databases of factory IDs and addresses. Data contributors will be listed alongside the factories they have identified to increase their visibility.
+In simple speak - the OAR will act as a central list of factory names and locations that anyone can use to normalize names and addresses. It will function as a free, open data repository that can be used directly via an online interface, or indirectly via a real-time open API (think a ‘Google Places’ like service customized for the needs of the apparel and footwear sector). The OAR will centralize data - specifically factory names and addresses - that are submitted by various contributors, including brands, industry associations and non-profits (among others). Data contributors will be listed alongside the factories they have submitted to both increase their visibility, as well as encourage greater transparency. To contribute to the database, users will be required to create an account with the OAR; however there are no restrictions on who is able to sign up and contribute. Users that are only interested in browsing the online map will be able access it freely. 
 
 <h3>The Collaborators 🎈</h3>
 The OAR is a collaborative project between [Sourcemap](https://sourcemap.com), a technology company focused on developing end to end supply chain mapping software 🗺, and the [C&A Foundation](candafoundation.org), an organization that brings together brands, initiatives and people to collectively create a more fair and sustainable fashion industry ⚖️.
