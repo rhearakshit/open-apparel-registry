@@ -4,7 +4,7 @@
 
 The [Open Apparel Registry](https://openapprel.org) is designed to be an <b>open, crowdsourced database</b> of apparel factories around the world, and it does this by normalizing information - i.e. factory names and locations - across data sources.
 
-![howitworks](https://user-images.githubusercontent.com/13699037/37334841-07d736e8-26d3-11e8-9677-a52a608088ae.jpg)
+<br>
 
 <h2>About</h2>
 
@@ -40,7 +40,8 @@ The OAR is a collaborative project between <b>Sourcemap</b> (https://sourcemap.c
 
 As the OAR is currently in its discovery and prototyping phase, we are reaching out to different types of industry stakeholders - from factories and brands, to researchers and civil society organizations - to participate in our user research and focus group discussions to better inform the OAR's design.
 
-<br>
+
+![howitworks](https://user-images.githubusercontent.com/13699037/37334841-07d736e8-26d3-11e8-9677-a52a608088ae.jpg)
 
 <b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project. Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. </b>
   
