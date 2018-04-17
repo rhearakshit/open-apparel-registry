@@ -32,9 +32,12 @@ Based on conversations with leading brands and NGOs in the apparel sector, it is
 
 In simple speak - the OAR will act as a central list of factory names and locations that anyone can use to normalize names and addresses. It will function as a free, open data repository that can be used directly via an online interface, or indirectly via a real-time open API (think a ‘Google Places’ like service customized for the needs of the apparel and footwear sector). The OAR will centralize data - specifically factory names and addresses - that are submitted by various contributors, including brands, industry associations and non-profits (among others). Data contributors will be listed alongside the factories they have submitted to both increase their visibility, as well as encourage greater transparency. To contribute to the database, users will be required to create an account with the OAR; however there are no restrictions on who is able to sign up and contribute. Users that are only interested in browsing the online map will be able access it freely. 
 
+<br>
 
 <h2>The Collaborators 🎈</h2>
 The OAR is a collaborative project between <b>Sourcemap</b> (https://sourcemap.com), a technology company focused on developing end to end supply chain mapping software, and the <b>C&A Foundation</b> (http://www.candafoundation.org/), an organization that brings together brands, initiatives and people to collectively create a more fair and sustainable fashion industry.
+
+<br>
 
 <h2>How You Can Help 💬</h2> 
 
