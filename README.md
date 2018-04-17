@@ -20,7 +20,7 @@ The good news is that we are definitely at an inflection point in in the apparel
 
 Yet all of this data is stored in separate databases, where the names and addresses of factories can be saved in dozens of different ways. <b>As a result, anyone interested in finding out more about the ethical practices or environmental performance of a brand and its supply chain, needs to engage in laborious and time-consuming research to match the factory names and addresses used by each of the abovementioned stakeholders to each other. </b> 
 
-<br>
+![oar timeline](https://user-images.githubusercontent.com/13699037/38849729-4c8de6ec-422b-11e8-87d4-cbb02afe04c7.jpg)
 
 Based on conversations with leading brands and NGOs in the apparel sector, it is estimated that each major stakeholder spends anywhere between €50-100k per year on this effort alone (!), which is usually totally out of reach for smaller organizations or individuals.
 
