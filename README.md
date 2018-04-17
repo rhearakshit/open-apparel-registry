@@ -44,8 +44,29 @@ As the OAR is currently in its discovery and prototyping phase, we are reaching 
 ![oar timeline](https://user-images.githubusercontent.com/13699037/38849729-4c8de6ec-422b-11e8-87d4-cbb02afe04c7.jpg)
 
 
-<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project. Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. </b>
+<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project.</b>
+
+<br>
+
+A FEW THINGS TO NOTE / FAQs 📝
+
+<br>
+
+<b>Can anyone send us design and usability feedback?</b>
+Absolutely! Because the OAR is a global registry, we are inviting feedback from users from different parts of the world. However, at this time the prototypes and designs are only available in English. 
+
+<br>
+
+<b>How will you be sharing designs and recording feedback?</b>
+If you are familiar with InVision, we will send you an InVision link to the OAR's initial designs, and you will be requested to send us your feedback either using the Comments function in InVision, or through Google Docs.
+If you are not familiar with InVision, no worries! :) We will send you screenshots of different screens via Google Slides, and you will be requested to send us your feedback by adding notes to the bottom of each slide, or through Google Docs.
+If you are interested in viewing other people's feedback, we will be capturing user feedback in a single Google Sheet, organized by Screen and Feature Type.
+
+<br>
+
+<b>When will all of these documents become available?</b>
+We will be posting links to each of these assets on this page the day before the Global Sprint. If you have emailed us to participate, we will also send you the links directly. 
   
-  <br>
-  
+ <br>
+
 If you'd like to participate, please send an email with the subject "Contributing Design Feedback for the OAR" directly to  <rhea@sourcemap.com>. Thanks so much for your time! 💛 
