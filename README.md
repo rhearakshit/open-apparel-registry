@@ -4,7 +4,7 @@
 
 The [Open Apparel Registry](https://openapprel.org) is designed to be an <b>open, crowdsourced database</b> of apparel factories around the world, and it does this by normalizing information - i.e. factory names and locations - across data sources.
 
-<br>
+![howitworks](https://user-images.githubusercontent.com/13699037/37334841-07d736e8-26d3-11e8-9677-a52a608088ae.jpg)
 
 <h2>About</h2>
 
@@ -20,7 +20,7 @@ The good news is that we are definitely at an inflection point in in the apparel
 
 Yet all of this data is stored in separate databases, where the names and addresses of factories can be saved in dozens of different ways. <b>As a result, anyone interested in finding out more about the ethical practices or environmental performance of a brand and its supply chain, needs to engage in laborious and time-consuming research to match the factory names and addresses used by each of the abovementioned stakeholders to each other. </b> 
 
-![oar timeline](https://user-images.githubusercontent.com/13699037/38849729-4c8de6ec-422b-11e8-87d4-cbb02afe04c7.jpg)
+<br>
 
 Based on conversations with leading brands and NGOs in the apparel sector, it is estimated that each major stakeholder spends anywhere between €50-100k per year on this effort alone (!), which is usually totally out of reach for smaller organizations or individuals.
 
@@ -41,7 +41,8 @@ The OAR is a collaborative project between <b>Sourcemap</b> (https://sourcemap.c
 As the OAR is currently in its discovery and prototyping phase, we are reaching out to different types of industry stakeholders - from factories and brands, to researchers and civil society organizations - to participate in our user research and focus group discussions to better inform the OAR's design.
 
 
-![howitworks](https://user-images.githubusercontent.com/13699037/37334841-07d736e8-26d3-11e8-9677-a52a608088ae.jpg)
+![oar timeline](https://user-images.githubusercontent.com/13699037/38849729-4c8de6ec-422b-11e8-87d4-cbb02afe04c7.jpg)
+
 
 <b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project. Designs will be shared using an InVision link, through which you will be able to provide feedback either directly using InVision's Comments feature, or through a standard Google Docs template. </b>
   
