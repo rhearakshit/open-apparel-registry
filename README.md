@@ -40,17 +40,15 @@ The OAR is a collaborative project between <b>Sourcemap</b> (https://sourcemap.c
 
 As the OAR is currently in its discovery and prototyping phase, we are reaching out to different types of industry stakeholders - from factories and brands, to researchers and civil society organizations - to participate in our user research and focus group discussions to better inform the OAR's design.
 
+<br>
+
+<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project.</b>
+
 
 ![oar timeline](https://user-images.githubusercontent.com/13699037/38849729-4c8de6ec-422b-11e8-87d4-cbb02afe04c7.jpg)
 
 
-<b>With the first set of designs now available for initial user feedback and testing, the OAR team is excited to invite design feedback, specifically focused on UX, UI and Content, from anyone interested in contributing their time to this project.</b>
-
-<br>
-
-A FEW THINGS TO NOTE / FAQs 📝
-
-<br>
+<h3>A Few Things to Note / FAQs 📝</h3>
 
 <b>Can anyone send us design and usability feedback?</b>
 Absolutely! Because the OAR is a global registry, we are inviting feedback from users from different parts of the world. However, at this time the prototypes and designs are only available in English. 
