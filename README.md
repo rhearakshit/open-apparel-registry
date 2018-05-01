@@ -73,3 +73,7 @@ We will be posting links to each of these assets on this page the day before the
  <br>
 
 If you'd like to participate, please send an email with the subject "Contributing Design Feedback for the OAR" directly to  <rhea@sourcemap.com>. Thanks so much for your time! 💛 
+
+<br>
+
+<b>Note:</b> Please refer to Mozilla's awesome Community Participation Guidelines for participating in this project! ➡️ https://www.mozilla.org/en-US/about/governance/policies/participation/
