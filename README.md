@@ -61,18 +61,18 @@ Absolutely! Because the OAR is a global registry, we are inviting feedback from 
 <br>
 
 <b>How will you be sharing designs and recording feedback?</b>
-If you are familiar with InVision, we will send you an InVision link to the OAR's initial designs, and you will be requested to send us your feedback either using the Comments function in InVision, or through Google Docs.
-If you are not familiar with InVision, no worries! :) We will send you screenshots of different screens via Google Slides, and you will be requested to send us your feedback by adding notes to the bottom of each slide, or through Google Docs.
-If you are interested in viewing other people's feedback, we will be capturing user feedback in a single Google Sheet, organized by Screen and Feature Type.
+If you are familiar with InVision, we will send you an InVision link to the OAR's initial designs, and you will be requested to send us your feedback either using the Comments function in InVision, or through a Google Form.
+If you are not familiar with InVision, no worries! Just send us an email and let us know :) We will send you screenshots of different screens via Google Slides, and you will be requested to send us your feedback by adding notes to the bottom of each slide, or through Google Forms.
 
 <br>
 
 <b>When will all of these documents become available?</b>
 We will be posting links to each of these assets on this page the day before the Global Sprint. If you have emailed us to participate, we will also send you the links directly. 
+**Update: LINK WILL BE POSTED AT 9 AM UTC! ⏰**
   
  <br>
 
-If you'd like to participate, please send an email with the subject "Contributing Design Feedback for the OAR" directly to  <rhea@sourcemap.com>. Thanks so much for your time! 💛 
+If you'd like to participate, please send an email with the subject "Contributing Design Feedback for the OAR" directly to  <rhea112@gmail.com>. Thanks so much for your time! 💛 
 
 <br>
 
