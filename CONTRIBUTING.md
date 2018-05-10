@@ -26,7 +26,9 @@ With the first set of designs now available for initial user feedback and testin
 
 ## How to contribute and submit feedback
 
-Please take a look at the Open Apparel Registry: Contributor Instructions document for instructions on how to contribute. Please feel free to email me on rhea112@gmail.com should you have any questions. Thank you! 💌
+We are currently looking for design and usability feedback on specifically the map and search functionality, the factory profile and general usability. Please note that you do not need to have a design background to submit feedback! The OAR will be an open and freely accessible tool, so we welcome feedback from all types of future users and interested parties.
+<br>
+Check out the **[Open Apparel Registry: Contributor Instructions](https://docs.google.com/document/d/1GBQzVedHYNnYjeyXjHJZ3lt0h0eH_XhPnd_ljZXAgzw/edit?usp=sharing)** document for detailed instructions on how to contribute. If you have any further questions, feel free to email me on rhea112@gmail.com at any time. Thank you! 💌
 
-Link to Instructions: https://docs.google.com/document/d/1GBQzVedHYNnYjeyXjHJZ3lt0h0eH_XhPnd_ljZXAgzw/edit?usp=sharing
+**Link to Instructions:** https://docs.google.com/document/d/1GBQzVedHYNnYjeyXjHJZ3lt0h0eH_XhPnd_ljZXAgzw/edit?usp=sharing
 
