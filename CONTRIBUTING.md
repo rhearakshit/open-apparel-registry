@@ -12,7 +12,6 @@ More info below! ⬇️
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
 * [How to contribute and submit feedback](#how-to-contribute-and-submit-feedback)
-* [Communication channels](#communication-channels)
 
 ## Participation guidelines
 
@@ -27,8 +26,7 @@ With the first set of designs now available for initial user feedback and testin
 
 ## How to contribute and submit feedback
 
-Coming soon!
+Please take a look at the Open Apparel Registry: Contributor Instructions document for instructions on how to contribute. Please feel free to email me on rhea112@gmail.com should you have any questions. Thank you! 💌
 
-## Communication channels
+Link to Instructions: https://docs.google.com/document/d/1GBQzVedHYNnYjeyXjHJZ3lt0h0eH_XhPnd_ljZXAgzw/edit?usp=sharing
 
-Coming soon!
